@@ -1,0 +1,17 @@
+/* Use this when you are ready to make a media query style
+
+@media screen and (max-width: 768px) {
+  
+
+}  */
+
+.container {
+    background-color: rgb(118, 155, 118);
+    height: 300px;
+
+
+    
+
+
+}
+
